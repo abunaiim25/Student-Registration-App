@@ -1,0 +1,20 @@
+body {
+    font-family: 'Inter', sans-serif;
+  } 
+  
+.link {
+    padding: 7px 15px 7px 15px;
+    background: linear-gradient(90deg, rgba(87, 199, 133, 1) 0%, rgba(42, 123, 155, 1) 100%);
+    color: white;
+    border-radius: 8px;
+}
+
+.btn_logout{
+    background: #bb2020;
+    width: 100%;
+    padding: 5px 10px 5px 10px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+}
+
